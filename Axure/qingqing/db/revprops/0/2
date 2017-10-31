@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 9
+liuhaizhu
+K 8
+svn:date
+V 27
+2017-10-31T15:42:17.282577Z
+K 7
+svn:log
+V 793
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Widget Style Sheet
+[CHANGED]  Sitemap
+[CHANGED]  Master List
+[ADDED]    (Page)      2.7. 课前预习
+[ADDED]    (Page)      2.6. 在线旁听
+[ADDED]    (Master)    框架
+[ADDED]    (Page)      2.1.  会员中心
+[ADDED]    (Page)      01. 首页
+[ADDED]    (Page)      02. 公开课
+[ADDED]    (Page)      2.9. 课后作业
+[ADDED]    (Page)      2.5. 阶段总结
+[ADDED]    (Page)      2.4. 教学计划
+[ADDED]    (Master)    APP模版
+[ADDED]    (Page)      04. 学习
+[ADDED]    (Page)      2.3. 续课
+[ADDED]    (Page)      2.2. 我的轻豆
+[ADDED]    (Page)      2.10. 专属助教
+[ADDED]    (Page)      03. 帮我选
+[ADDED]    (Page)      2.8. 课堂反馈
+[ADDED]    (Page)      05. 我的
+--------------------------</AXCHECKIN>
+END
